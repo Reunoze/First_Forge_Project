@@ -12,6 +12,7 @@ import org.slf4j.Logger;
 @Mod(FirstProject.MOD_ID)
 public class FirstProject
 {
+    // Very Important Comment
     public static final String MOD_ID = "fproject";
     private static final Logger LOGGER = LogUtils.getLogger();
     public FirstProject()
